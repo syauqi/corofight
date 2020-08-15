@@ -16,6 +16,7 @@
       integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I"
       crossorigin="anonymous"
     />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <link rel="stylesheet" href="assets/styles/style.css" />
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.1/lottie.min.js"></script>
@@ -110,7 +111,9 @@
                 rem reiciendis minus natus sit sapiente molestiae libero
                 expedita assumenda quae? Aperiam, in amet?
               </p>
-              <a href="" class="btn btn-danger btn-header">Mulai Sekarang</a>
+              <button class="btn mt-2 mb-2 btn-header bubbly-button">
+                Mulai Sekarang
+              </button>
             </div>
           </div>
         </div>
@@ -129,7 +132,11 @@
           </div>
         </div>
 
-        <div class="article-card mt-5">
+        <div
+          data-aos="fade-right"
+          data-aos-duration="1900"
+          class="article-card mt-5"
+        >
           <div class="row">
             <div class="col-md-6">
               <div
@@ -139,7 +146,7 @@
               ></div>
             </div>
             <div class="col-md-6 text-center my-auto">
-              <h2>Say no to handshake!</h2>
+              <h2 class="article-header">Say no to handshake!</h2>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa
                 voluptate impedit sapiente labore ea facere fuga laboriosam,
@@ -150,10 +157,16 @@
           </div>
         </div>
 
-        <div class="article-card mt-5">
+        <div
+          data-aos="fade-left"
+          data-aos-duration="1900"
+          class="article-card mt-5"
+        >
           <div class="row">
             <div class="col-md-6 text-center my-auto">
-              <h2>Say no to handshake!</h2>
+              <h2 class="article-header">
+                Always wearing a mask when go outside!
+              </h2>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa
                 voluptate impedit sapiente labore ea facere fuga laboriosam,
@@ -171,7 +184,11 @@
           </div>
         </div>
 
-        <div class="article-card mt-5">
+        <div
+          data-aos="fade-right"
+          data-aos-duration="1900"
+          class="article-card mt-5"
+        >
           <div class="row">
             <div class="col-md-6">
               <div
@@ -181,7 +198,9 @@
               ></div>
             </div>
             <div class="col-md-6 text-center my-auto">
-              <h2>Say no to handshake!</h2>
+              <h2 class="article-header">
+                Wash your hand with anti-bacteria soap
+              </h2>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa
                 voluptate impedit sapiente labore ea facere fuga laboriosam,
@@ -192,10 +211,14 @@
           </div>
         </div>
 
-        <div class="article-card mt-5">
+        <div
+          data-aos="fade-left"
+          data-aos-duration="1900"
+          class="article-card mt-5"
+        >
           <div class="row">
             <div class="col-md-6 text-center my-auto">
-              <h2>Say no to handshake!</h2>
+              <h2 class="article-header">Wash you hand for 20 seconds</h2>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa
                 voluptate impedit sapiente labore ea facere fuga laboriosam,
@@ -225,6 +248,10 @@
       <!-- End Head Images Section -->
 
       <!-- Optional JavaScript -->
+      <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+      <script>
+        AOS.init();
+      </script>
       <!-- Popper.js first, then Bootstrap JS -->
       <script
         src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
@@ -237,6 +264,7 @@
         crossorigin="anonymous"
       ></script>
       <script src="assets/scripts/lottie.js"></script>
+      <script src="assets/scripts/main.js"></script>
     </main>
   </body>
 </html>
