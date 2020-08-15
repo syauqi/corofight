@@ -1,12 +1,13 @@
 body {
   font-family: "Inter", sans-serif;
+
   background-color: #ffffff;
 }
 
 .header-font {
   font-weight: 800;
   letter-spacing: -2px;
-  color: #222222;
+  color: #000000;
 }
 
 .navbar-section {
@@ -21,7 +22,7 @@ body {
 }
 
 .nav-link {
-  color: #222222 !important;
+  color: #000000 !important;
   font-weight: 600;
 }
 
@@ -29,4 +30,53 @@ body {
   border-radius: 30px;
   padding-left: 25px;
   padding-right: 25px;
+}
+
+.heading-section {
+  color: #000000;
+  box-shadow: 0 0.9px 3.2px rgba(0, 0, 0, 0.001),
+    0 2.1px 7.1px rgba(0, 0, 0, 0.002), 0 3.5px 12.1px rgba(0, 0, 0, 0.004),
+    0 5.4px 18.7px rgba(0, 0, 0, 0.006), 0 8.1px 27.7px rgba(0, 0, 0, 0.01),
+    0 11.8px 40.7px rgba(0, 0, 0, 0.014), 0 17.7px 60.9px rgba(0, 0, 0, 0.02),
+    0 28.3px 97.1px rgba(0, 0, 0, 0.033), 0 53px 182px rgba(0, 0, 0, 0.07);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.heading-section h1 {
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.header-card {
+  box-shadow: 0 0.9px 3.2px rgba(0, 0, 0, 0.001),
+    0 2.1px 7.1px rgba(0, 0, 0, 0.002), 0 3.5px 12.1px rgba(0, 0, 0, 0.004),
+    0 5.4px 18.7px rgba(0, 0, 0, 0.006), 0 8.1px 27.7px rgba(0, 0, 0, 0.01),
+    0 11.8px 40.7px rgba(0, 0, 0, 0.014), 0 17.7px 60.9px rgba(0, 0, 0, 0.02),
+    0 28.3px 97.1px rgba(0, 0, 0, 0.033), 0 53px 182px rgba(0, 0, 0, 0.07);
+  padding: 30px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+.heading-section p {
+  font-weight: 600px;
+  text-align: center;
+}
+
+.article-card {
+  box-shadow: 0 0.9px 3.2px rgba(0, 0, 0, 0.001),
+    0 2.1px 7.1px rgba(0, 0, 0, 0.002), 0 3.5px 12.1px rgba(0, 0, 0, 0.004),
+    0 5.4px 18.7px rgba(0, 0, 0, 0.006), 0 8.1px 27.7px rgba(0, 0, 0, 0.01),
+    0 11.8px 40.7px rgba(0, 0, 0, 0.014), 0 17.7px 60.9px rgba(0, 0, 0, 0.02),
+    0 28.3px 97.1px rgba(0, 0, 0, 0.033), 0 53px 182px rgba(0, 0, 0, 0.07);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: aqua;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
 }
