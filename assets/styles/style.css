@@ -1,7 +1,7 @@
 body {
   font-family: "Inter", sans-serif;
-
   background-color: #ffffff;
+  overflow-x: hidden;
 }
 
 .header-font {
