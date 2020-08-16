@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di Learnify! 👋</h1>
+<h1 align="center">Selamat datang di Corofight! 👋</h1>
 
 ![Corofight - Screenshot](https://user-images.githubusercontent.com/46257169/90329642-d8b2a780-dfd0-11ea-8d02-50333cdd8bc2.png)
 
@@ -19,8 +19,8 @@ Saya buat Open Souce karena teman teman komunitas di facebook sangat penasaran d
 ### 🏠 <a href="http://syauqi.js.org/">Homepage</a>
 **Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
 
-### ✨ <a href="http://syauqi.js.org/">Demo</a>
-**Demo sementara ini belum saya hosting. Dikarenakan project ini masih beta dan dana yang kurang.** Kalian cukup fork lalu clone dan jalankan di localhost saja ya! atau kalian bisa download project ini via github apabila kalian belum familiar dengan github.
+### ✨ <a href="https://corofight.netlify.app/">Demo</a>
+Demo dapat kalian kunjungi di https://corofight.netlify.app/
 
 ### 📆 <a href="http://syauqi.js.org/">Release Date</a>
 **Release date : 16 April 2020 **
