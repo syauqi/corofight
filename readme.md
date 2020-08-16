@@ -23,7 +23,7 @@ Saya buat Open Souce karena teman teman komunitas di facebook sangat penasaran d
 Demo dapat kalian kunjungi di https://corofight.netlify.app/
 
 ### 📆 <a href="http://syauqi.js.org/">Release Date</a>
-**Release date : 16 April 2020 **
+**Release date : 16 April 2020**
 
 > Corofight menggunakan banyak CDN yang mungkin di masa depan nanti tidak berjalan dengan baik :)
 
