@@ -1,7 +1,12 @@
+html,
 body {
+  width: 100%;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
   font-family: "Inter", sans-serif;
   background-color: #ffffff;
-  overflow-x: hidden;
 }
 
 .header-font {
