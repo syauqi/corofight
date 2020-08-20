@@ -16,13 +16,13 @@ Web Edukasi tentang corona-virus yang dibuat oleh <a href="https://github.com/sy
 ### 🎉 Kenapa dibuat Open Source?
 Saya buat Open Souce karena teman teman komunitas di facebook sangat penasaran dengan proses kerja lottie yaitu cara menampilkan animasi di website.
 
-### 🏠 <a href="http://syauqi.js.org/">Homepage</a>
+### 🏠 <a href="#">Homepage</a>
 **Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
 
 ### ✨ <a href="https://corofight.netlify.app/">Demo</a>
 Demo dapat kalian kunjungi di https://corofight.netlify.app/
 
-### 📆 <a href="http://syauqi.js.org/">Release Date</a>
+### 📆 <a href="#">Release Date</a>
 **Release date : 16 April 2020**
 
 > Corofight menggunakan banyak CDN yang mungkin di masa depan nanti tidak berjalan dengan baik :)
