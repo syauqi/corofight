@@ -11,7 +11,7 @@
 </p>
 
 ### 🤔 Apa itu Corofight?
-Web Edukasi tentang corona-virus yang dibuat oleh <a href="https://github.com/syauqi"> Syauqi Zaidan Khairan Khalaf </a> . Yang menggunakan lottie agar dapat dinikmati dengan animasi yang berjalan di website.
+Web Edukasi tentang corona-virus yang dibuat oleh <a href="https://github.com/syauqi"> SYAUQIZAIDAN KHAIRAN KHALAF </a> . Yang menggunakan lottie agar dapat dinikmati dengan animasi yang berjalan di website.
 
 ### 🎉 Kenapa dibuat Open Source?
 Saya buat Open Souce karena teman teman komunitas di facebook sangat penasaran dengan proses kerja lottie yaitu cara menampilkan animasi di website.
