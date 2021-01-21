@@ -31,7 +31,7 @@ Demo dapat kalian kunjungi di https://corofight.netlify.app/
 
 ## 🧑 Author
 
-👤 <a href="https://web.facebook.com/syauqi"> **Syauqi Zaidan Khairan Khalaf**</a>
+👤 <a href="https://web.facebook.com/syauqi"> **SYAUQIZAIDAN KHAIRAN KHALAF**</a>
 - Twitter : <a href="https://twitter.com/@syaaauqi"> @syaaauqi</a>
 - Facebook : <a href="https://web.facebook.com/syaaauqi"> Syauqi Zaidan Khairan Khalaf</a>
 - Instagram : <a href="https://www.instagram.com/syaufy/">@syaufy </a>
@@ -43,9 +43,9 @@ Contributions, issues and feature requests di persilahkan.
 Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. 
 
 ## 📝 License
-- Copyright © 2020 Syauqi Zaidan Khairan Khalaf.
+- Copyright © 2020 SYAUQIZAIDAN KHAIRAN KHALAF.
 - **Corofight is open-sourced software licensed under the MIT license.**
 
 ------------
-- **Made with ❤️ by Syauqi Zaidan Khairan Khalaf .**
+- **Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF**
 
