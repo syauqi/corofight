@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di repository Corofight! 👋🏻</h1>
 
-![screely-1654888079777](https://user-images.githubusercontent.com/46257169/173133857-40825765-7096-463a-b66c-a9b23ff944fc.png)
+![corofight-preview](https://user-images.githubusercontent.com/46257169/173133857-40825765-7096-463a-b66c-a9b23ff944fc.png)
 
 <p></p>
 
