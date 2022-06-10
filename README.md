@@ -19,8 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="#tentang">Tentang </a> •
+  <a href="#tentang">Tentang Project</a> •
   <a href="#demo">Demo</a> •
+  <a href="#download">Download & Install</a> •
   <a href="#dukungan">Dukungan</a> •
   <a href="#kontribusi">Kontribusi</a> •
   <a href="#lisensi">Lisensi</a>
@@ -33,15 +34,23 @@ Website ini berisi tentang cara dan pecegahan tentang corona virus yang dibuat d
 
 <p></p>
 
-<h2 id="demo">🏠 Demo & Overview</h2>
+<h2 id="demo">🏠 Halaman Demo</h2>
 
 Halaman demo dapat dilihat di https://corofight.netlify.app/ disana kalian dapat melihat bagaimana animasi yang saya gunakan bisa berjalan di website menggunakan lottiefiles
 
 <p></p>
 
-<h2 id="rilis">📆 Tanggal Rilis</h2>
+<h2 id="download">🐱‍💻 Panduan Menjalankan & Install Aplikasi</h2>
 
-- Release date : 16 April 2020
+Untuk menjalankan aplikasi atau web ini setidaknya satu web browser yang terinstall di komputer anda.
+
+```bash
+# Clone repository ini atau download di
+$ git clone https://github.com/syauqi/corofight.git
+
+# Klik index.html di folder yang sudah di clone maka akan muncul halaman corofight!
+
+```
 
 <p></p>
 
