@@ -1,51 +1,73 @@
-<h1 align="center">Selamat datang di Corofight! 👋</h1>
+<h1 align="center">Selamat datang di repository Corofight! 👋🏻</h1>
 
-![Corofight - Screenshot](https://user-images.githubusercontent.com/46257169/90329642-d8b2a780-dfd0-11ea-8d02-50333cdd8bc2.png)
+![screely-1654888079777](https://user-images.githubusercontent.com/46257169/173133857-40825765-7096-463a-b66c-a9b23ff944fc.png)
 
-<p align ="Center">
+<p></p>
 
-<img src="https://img.shields.io/github/issues/syauqi/corofight?style=flat-square">
-<img src="https://img.shields.io/github/stars/syauqi/corofight?style=flat-square">
-<img src="https://img.shields.io/github/forks/syauqi/corofight?style=flat-square">
+<h4 align="center">Website edukasi pencegahan COVID-19 dengan animasi yang dibuat dengan <a href="https://lottiefiles.com/" target="_blank">Lottie</a>.
+</h4>
 
+<p></p>
+
+<p align="center">
+	<img src="https://img.shields.io/github/issues/syauqi/corofight?style=flat-square">
+	<img src="https://img.shields.io/github/stars/syauqi/corofight?style=flat-square"> 
+	<img src="https://img.shields.io/github/forks/syauqi/corofight?style=flat-square">
+	<img src="https://img.shields.io/github/license/syauqi/corofight?style=flat-square">
+	<img src="https://img.shields.io/badge/maintained%3F-no-red.svg?style=flat-square">
+	<img src="https://img.shields.io/github/followers/syauqi.svg?style=flat-square&label=followers">
 </p>
 
-### 🤔 Apa itu Corofight?
-Web Edukasi tentang corona-virus yang dibuat oleh <a href="https://github.com/syauqi"> SYAUQIZAIDAN KHAIRAN KHALAF </a> . Yang menggunakan lottie agar dapat dinikmati dengan animasi yang berjalan di website.
+<p align="center">
+  <a href="#tentang">Tentang </a> •
+  <a href="#demo">Demo</a> •
+  <a href="#dukungan">Dukungan</a> •
+  <a href="#kontribusi">Kontribusi</a> •
+  <a href="#lisensi">Lisensi</a>
+</p>
 
-### 🎉 Kenapa dibuat Open Source?
-Saya buat Open Souce karena teman teman komunitas di facebook sangat penasaran dengan proses kerja lottie yaitu cara menampilkan animasi di website.
+<p></p>
 
-### 🏠 <a href="#">Homepage</a>
-**Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
+<h2 id="tentang">🦠 Tentang Corofight</h2>
+Website ini berisi tentang cara dan pecegahan tentang corona virus yang dibuat dengan animasi menggunakan lottie sekaligus mempelajari cara kerja dari lottifiles.
 
-### ✨ <a href="https://corofight.netlify.app/">Demo</a>
-Demo dapat kalian kunjungi di https://corofight.netlify.app/
+<p></p>
 
-### 📆 <a href="#">Release Date</a>
-**Release date : 16 April 2020**
+<h2 id="demo">🏠 Demo & Overview</h2>
 
-> Corofight menggunakan banyak CDN yang mungkin di masa depan nanti tidak berjalan dengan baik :)
+Halaman demo dapat dilihat di https://corofight.netlify.app/ disana kalian dapat melihat bagaimana animasi yang saya gunakan bisa berjalan di website menggunakan lottiefiles
 
-------------
+<p></p>
 
-## 🧑 Author
+<h2 id="rilis">📆 Tanggal Rilis</h2>
 
-👤 <a href="https://web.facebook.com/syauqi"> **SYAUQIZAIDAN KHAIRAN KHALAF**</a>
-- Twitter : <a href="https://twitter.com/@syaaauqi"> @syaaauqi</a>
-- Facebook : <a href="https://web.facebook.com/syaaauqi"> Syauqi Zaidan Khairan Khalaf</a>
-- Instagram : <a href="https://www.instagram.com/syaufy/">@syaufy </a>
-- Dribbble : <a href="https://dribbble.com/syaufy">@syaufy </a>
-- Behance :  <a href="https://www.behance.net/syaufy">@syaufy </a>
+- Release date : 16 April 2020
 
-## 🤝 Contributing
-Contributions, issues and feature requests di persilahkan.
-Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. 
+<p></p>
 
-## 📝 License
-- Copyright © 2020 SYAUQIZAIDAN KHAIRAN KHALAF.
-- **Corofight is open-sourced software licensed under the MIT license.**
+<h2 id="dukungan">💌 Dukungan</h2>
 
-------------
-- **Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF**
+Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
 
+<p></p>
+
+<a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+<p></p>
+
+<h2 id="kontribusi">🤝 Kontribusi</h2>
+
+Contributions, issues and feature requests sangat saya apresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk pull request dan membuat perubahan pada project ini.
+
+Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
+
+<p></p>
+
+<h2 id="lisensi">📝 Lisensi</h2>
+
+- Copyright © 2022 SYAUQIZAIDAN KHAIRAN KHALAF
+- Corofight adalah aplikasi web open-source yang berlisensi dibawah lisensi MIT
+
+---
+
+**<p align="center">Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF</p>**
